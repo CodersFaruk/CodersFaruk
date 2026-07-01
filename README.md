@@ -7,7 +7,7 @@
 
 # Hi, I'm Faruk
 
-### Senior Laravel, Next.js, and Cloud-Focused Software Engineer
+### PHP Laravel, Next.js, and Cloud-Focused Software Engineer
 
 <a href="https://git.io/typing-svg">
   <img
