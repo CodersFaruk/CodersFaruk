@@ -27,7 +27,7 @@ Reliable backend systems. Clean user experiences. Production-ready engineering.
 <a href="https://YOUR_PORTFOLIO_URL.com">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:redqteams@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://x.com/YOUR_X_USERNAME">
